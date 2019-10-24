@@ -40,8 +40,7 @@
 
 Line : Fafearn89.
 
-### javaintro
-[javaintro](https://github.com/suwatjanee005/CPSC462_HW7/blob/master/javaintro.pdf) 
+### [javaintro](https://github.com/suwatjanee005/CPSC462_HW7/blob/master/javaintro.pdf) 
 
 ### 36 Pyramid
 <a href="https://github.com/suwatjanee005/Java_Pyramid/blob/master/fearn01.java" class="button">pyramid01</a>
@@ -105,7 +104,5 @@ Line : Fafearn89.
 [โปรแกรมรับค่าจากแป้นพิมพ์เก็บลงอาร์เรย์](https://github.com/suwatjanee005/work5-BCOM361/blob/master/%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%84%E0%B9%88%E0%B8%B2%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B9%81%E0%B8%9B%E0%B9%89%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C%E0%B9%80%E0%B8%81%E0%B9%87%E0%B8%9A%E0%B8%A5%E0%B8%87%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%A3%E0%B8%A2%E0%B9%8C.pdf?fbclid=IwAR2JzKFC_oePR5FXq1hpgvBi0JgkaWLDxsXt_3w0wtGNdZuNmlpHZ9Nv480)
 
 ### [Midtrem Project](https://github.com/suwatjanee005/CPSC462_HW7/blob/master/MidtermPJ.pdf) 
-
-
-### [Midterm Project ](https://github.com/suwatjanee005/midtermCpsc331) 
+ 
 
